@@ -11,7 +11,6 @@ function App() {
   return (
     <>
       <Header></Header>
-      <TopSection></TopSection>
       <Outlet></Outlet>
       
       
